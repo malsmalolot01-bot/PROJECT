@@ -1,0 +1,7 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css'; 
+@source '../../vendor/laravel/framework/src/Illuminate/Foundation/Resources/assets/css/.blade.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+@theme
+ --font-sans: 'instrument-sans', ui-sans-serif,system -ui,sans-serif,'Apple Color Emoji','segoe UI emoji','segoe UI symbol'"Noto color emoji";
